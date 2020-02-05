@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D67C-D8E1
+
+ Directory of C:\Users\E004163\Desktop\GitProject
+
+02/05/2020  04:51 PM    <DIR>          .
+02/05/2020  04:51 PM    <DIR>          ..
+02/05/2020  04:51 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  388,601,155,584 bytes free
